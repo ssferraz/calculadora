@@ -19,5 +19,6 @@
 
     <string name="igual">=</string>
     <string name="resultado">Resultado</string>
+    <string name="limpar">Limpar</string>
 
 </resources>
